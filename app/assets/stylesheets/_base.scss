@@ -1,0 +1,13 @@
+body {
+  background: $cream;
+  color: $red;
+  font-family: "sommet-rounded",sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+a, a:link, a:visited {
+  color: $red;
+  font-weight: 700;
+  text-decoration: none;
+}
