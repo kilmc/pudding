@@ -1,8 +1,11 @@
 Pudding::Application.routes.draw do
+  resources :proofs
+
+
   devise_for :users
   resources :dashboard
 
-  root to: "Home#index"
+  root to: "Proofs#new"
 
   match "/help", to: "static_pages#help"
   match "/about", to: "static_pages#about"

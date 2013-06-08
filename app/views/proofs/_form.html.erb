@@ -1,0 +1,11 @@
+<%= form_for @proof, html: { class: "form-horizontal" } do |f| %>
+  
+  <%= f.label :email %>
+  <%= f.text_field :email %>
+  
+  <%= f.label :content %>
+  <%= f.text_area :content, class: "input-block-level", rows: "10" %>
+  
+  <%= f.submit "Submit", class: "btn" %>
+  <p>test</p>
+<% end %>

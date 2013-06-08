@@ -34,6 +34,9 @@ GEM
       sass (~> 3.2)
     bootstrap-will_paginate (0.0.6)
       will_paginate
+    bourbon (3.1.1)
+      sass (>= 3.2.0)
+      thor
     builder (3.0.4)
     capybara (1.1.2)
       mime-types (>= 1.16)
@@ -110,6 +113,9 @@ GEM
     method_source (0.8.1)
     mime-types (1.21)
     multi_json (1.6.0)
+    neat (1.2.0)
+      bourbon (>= 2.1)
+      sass (>= 3.2)
     nokogiri (1.5.6)
     orm_adapter (0.0.7)
     pg (0.12.2)
@@ -210,6 +216,7 @@ DEPENDENCIES
   guard-rspec (= 1.2.1)
   guard-spork (= 1.2.0)
   jquery-rails (= 2.0.2)
+  neat
   pg (= 0.12.2)
   rails (= 3.2.12)
   rspec-rails (= 2.11.0)

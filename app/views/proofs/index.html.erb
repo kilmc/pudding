@@ -1,0 +1,21 @@
+<h1>Listing proofs</h1>
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @proofs.each do |proof| %>
+  <tr>
+    <td><%= link_to 'Show', proof %></td>
+    <td><%= link_to 'Edit', edit_proof_path(proof) %></td>
+    <td><%= link_to 'Destroy', proof, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Proof', new_proof_path %>
