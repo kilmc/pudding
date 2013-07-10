@@ -1,0 +1,1351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"rec",
+				"receipt_line"
+			],
+			[
+				"asso",
+				"associate-logos"
+			],
+			[
+				"det",
+				"details-responses"
+			],
+			[
+				"action",
+				"action-bar-btn"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"table",
+				"table-amount"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"long-",
+				"long-currency"
+			],
+			[
+				"interest",
+				"interest-registered-heading"
+			],
+			[
+				"no-",
+				"no-upcoming"
+			],
+			[
+				"fu",
+				"future_events"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"control",
+				"control-label"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"two",
+				"two-column-dashboard-list"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"chopping-board",
+				"chopping-board-width"
+			],
+			[
+				"progress",
+				"progress-bar"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 874,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "step1.html",
+			"settings":
+			{
+				"buffer_size": 891,
+				"line_ending": "Unix",
+				"name": "<!doctype html>"
+			}
+		},
+		{
+			"file": "step2.html",
+			"settings":
+			{
+				"buffer_size": 1113,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "step3.html",
+			"settings":
+			{
+				"buffer_size": 2450,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/sass/screen.scss",
+			"settings":
+			{
+				"buffer_size": 3022,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/sass/_reset.scss",
+			"settings":
+			{
+				"buffer_size": 2361,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 115.0,
+		"selected_items":
+		[
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - User"
+			],
+			[
+				"syn sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"preferences",
+				"Preferences: Settings - User"
+			],
+			[
+				"bind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kilmc/Sites/sketches/tito/tito-docs/stylesheets/sass/screen.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/javascripts/organizer/returns.js.coffee",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/layouts/application.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/javascripts/application/flash_presenter.js.coffee",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/application.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_variables.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/javascripts/organizer/viewer.js.coffee",
+		"/Users/kilmc/Sites/Hypertiny/Tito/index.html",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/registrations/returns/_show.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/tickets/_void.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/registrations/returns/_confirm.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/registrations/registrations/_show.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/refunds.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/registrations.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/buttons.css.scss",
+		"/Users/kilmc/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/shared/_variables.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/events/registrations/regular/_show_complete.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/action_bar.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/outer/_modules.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/Gemfile",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/lottery_mailer/rejection_notice.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/tickets_mailer/ticket_added.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/tickets_mailer/_ticket.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/temporary_tickets_mailer/confirmation.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/registrations_mailer/confirmation.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/registrations_mailer/purchase_notification.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/payments_mailer/rejection_notice.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/registrations_mailer/rejection_notice.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/tickets_mailer/ticket_gifted.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/payments_mailer/refund_created.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/payouts_mailer/notify_support.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/tickets_mailer/ticket_updated.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/lottery_mailer/payment_confirmation.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/payouts_mailer/update_notification.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/registrations_mailer/lottery_confirmation.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/users_mailer/added_to_account_notification.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/temporary_tickets_mailer/complete_notification.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/lottery_mailer/confirmation.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/users_mailer/invitation.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/events_mailer/digest.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/users_mailer/invite.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/registrations_mailer/failed_purchase_notification.text.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/registrations/_email.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/registrations/refunds/_show.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/users/registrations/complete.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/models/ticket.rb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/javascripts/event/ticket-slide.js",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/javascripts/event.js",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/shared/_helpers.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/tickets/index.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/account_modal/_basics.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/modal.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/account_modal/_billing_card_on_file.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/account_modal/_billing_plan.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/account_modal/_billing_default.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/account_modal/_payment_options.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/shared/_base.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/outer/_layouts.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/models/interface/registration/new/validation_methods.rb",
+		"/Users/kilmc/Desktop/know-hosts-backup",
+		"/Users/kilmc/.ssh/known_hosts",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/models/line_item.rb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/layouts/event.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/events/events/show.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/events/events/_footer.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/outer/_base.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/nav.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/events/events/not_live.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/errors/style.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/timeline.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/layouts/home.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/home/style.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/releases/index.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/javascripts/organizer/sort_toggle.js.coffee",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/standard_list.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/public/404.html",
+		"/Users/kilmc/Sites/Hypertiny/Tito/config/routes.rb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/custom-font.css",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/helpers/application_helper.rb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/fonts/custom/custom-fonts.css",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/javascripts/organizer/navigation.js.coffee",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/events/allocations/show.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/events/events/_event.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_mixins.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/accounts/show.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/accounts/show_owner.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/account_switcher.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/home/show.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/timeline/style.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/viewer.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/registrations/_show.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/tickets/_show.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/layouts/_account_switcher.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/events/events/_register_form.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/controllers/api/events_controller.rb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/controllers/tickets_controller.rb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/admin/dashboard/show.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/events/_form.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/javascripts/application/tito.js.coffee",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/controllers/admin/registrations_controller.rb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/settings/tax_types/show.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/layouts/_navigation.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/settings/tax_types/index.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_nav.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_timeline_new_event.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/releases/_show.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_viewer.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/_standard_table.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_settings.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_buttons.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_action_bar.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_main.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/events/_dashboard.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/discount_codes/_form.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/settings/basics/_basics.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/registrations/index.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/settings/basics/_invoicing.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/settings/basics/_invoicing_settings.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_settings_links.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/settings/basics/_invoicing_form.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/tickets/_ticket.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_standard_list.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/interested_users/index.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/answers/index.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_dashboard.css.scss",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/registrations/_registration.html.erb",
+		"/Users/kilmc/Sites/Hypertiny/Tito/app/views/organizer/reports/index.html.erb"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"flash_notice",
+			"flash-notice",
+			">>>>",
+			">>>>>>>>>>>",
+			"Attendees",
+			"ticket-refe",
+			"&.con",
+			"refunds-show",
+			"voided",
+			"refund-amount-confirm",
+			"order-att",
+			"confirm-ticket-group",
+			"order-attendee-info-list",
+			"order-attendee",
+			";\n",
+			"void-ticket",
+			"$red-1",
+			"padding-left:",
+			"selection-header-check",
+			"manage-order",
+			"4px",
+			"30px",
+			"offer-refu",
+			"offer-refund",
+			"offer-refund-che",
+			"selection-label",
+			"selection-header",
+			"selection-all",
+			"selection all",
+			"selection",
+			"order-attendee-info-list",
+			"ticket-group",
+			"attendee-ticket",
+			".attendee-ticket",
+			"email",
+			"button",
+			"manage-order-header",
+			"<legend>",
+			"<legend>Confirm",
+			"Confirm Void",
+			"Select all tickets",
+			"View Invoice",
+			"twitter",
+			"refund",
+			"Refund",
+			"refund",
+			"Refund",
+			".order-item-info",
+			"selection-all-label",
+			"manage-order-header",
+			"refund",
+			"ticket-reference",
+			"ticket-reference\nticket-reference",
+			"ticket-reference",
+			"billed amount",
+			"<h4>Order",
+			"order summary",
+			"Refund Registration - Tito",
+			"invoice",
+			"Downloa",
+			"Download Invoice",
+			"attendees",
+			"ticket-void",
+			".tickets-purchase-wrap",
+			"min-heigh",
+			"invoice",
+			"add addition",
+			";\n",
+			"9em",
+			".info",
+			"span",
+			"invoice",
+			".tickets-purchase-wrap",
+			"download your receipt",
+			"help-inline",
+			"can't be blank",
+			"profile-form-wrap",
+			"help-inline",
+			"#basic",
+			"modal-basics",
+			"This credit card will be charged at the end of e",
+			"upgrade plan",
+			"view-creditcard-link",
+			"-280",
+			"1.5em",
+			"}\n",
+			"icon-o",
+			"icon-ok",
+			"ok",
+			"payment-option",
+			"valid for all",
+			"account-settings-modal",
+			"dreamho",
+			".errors",
+			"ticket-register-form",
+			".errors",
+			"You may only register ",
+			"event-error-message-container",
+			"footer",
+			"data-role=\"main\"",
+			"#main",
+			"main",
+			"#main ",
+			"#main",
+			"height",
+			"footer",
+			"purchase-footer",
+			"#purchase-footer",
+			"purchase-footer",
+			"footer",
+			";\n",
+			"live",
+			"linear",
+			"padding 0.25s linear",
+			"ui-sortable",
+			"ui-sortable-disabled",
+			"sort-toggle",
+			"icon-list-ol",
+			"action-bar-btn",
+			"nav",
+			"events",
+			"nav_link",
+			"id=\"nav\"",
+			"class=\"pictos\"",
+			"<span class=\"pictos\">t</span>",
+			"main-nav-releases",
+			"pictos",
+			"tickets"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								432
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "step1.html",
+					"settings":
+					{
+						"buffer_size": 891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								331
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!doctype html>",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "step2.html",
+					"settings":
+					{
+						"buffer_size": 1113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								443
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 44.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "step3.html",
+					"settings":
+					{
+						"buffer_size": 2450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "stylesheets/sass/screen.scss",
+					"settings":
+					{
+						"buffer_size": 3022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2000,
+								2000
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"wrap_width": 78
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "stylesheets/sass/_reset.scss",
+					"settings":
+					{
+						"buffer_size": 2361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2361,
+								2361
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 673.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"reset",
+				"stylesheets/sass/_reset.scss"
+			],
+			[
+				"scree",
+				"stylesheets/sass/screen.scss"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"variab",
+				"app/assets/stylesheets/application/_variables.css.scss"
+			],
+			[
+				"viewer",
+				"app/assets/javascripts/organizer/viewer.js.coffee"
+			],
+			[
+				"flashp",
+				"app/assets/javascripts/application/flash_presenter.js.coffee"
+			],
+			[
+				"layouapp",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"return",
+				"app/assets/javascripts/organizer/returns.js.coffee"
+			],
+			[
+				"regshow",
+				"app/views/organizer/registrations/registrations/_show.html.erb"
+			],
+			[
+				"regisscss",
+				"app/assets/stylesheets/application/registrations.css.scss"
+			],
+			[
+				"refundcss",
+				"app/assets/stylesheets/application/refunds.css.scss"
+			],
+			[
+				"action",
+				"app/assets/stylesheets/application/action_bar.css.scss"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"modu",
+				"app/assets/stylesheets/outer/_modules.scss"
+			],
+			[
+				".text.erb",
+				"app/views/users_mailer/added_to_account_notification.text.erb"
+			],
+			[
+				"email",
+				"app/views/organizer/registrations/_email.html.erb"
+			],
+			[
+				"complete",
+				"app/views/events/registrations/regular/_show_complete.html.erb"
+			],
+			[
+				"comple",
+				"app/views/users/registrations/complete.html.erb"
+			],
+			[
+				"outmo",
+				"app/assets/stylesheets/outer/_modules.scss"
+			],
+			[
+				"tickrb",
+				"app/models/ticket.rb"
+			],
+			[
+				"tickind",
+				"app/views/organizer/tickets/index.html.erb"
+			],
+			[
+				"modul",
+				"app/assets/stylesheets/outer/_modules.scss"
+			],
+			[
+				"outerla",
+				"app/assets/stylesheets/outer/_layouts.scss"
+			],
+			[
+				"base",
+				"app/assets/stylesheets/shared/_base.scss"
+			],
+			[
+				"footer",
+				"app/views/events/events/_footer.html.erb"
+			],
+			[
+				"notl",
+				"app/views/events/events/not_live.html.erb"
+			],
+			[
+				"outermo",
+				"app/assets/stylesheets/outer/_modules.scss"
+			],
+			[
+				"outer",
+				"app/assets/stylesheets/outer/_layouts.scss"
+			],
+			[
+				"not_",
+				"app/views/events/events/not_live.html.erb"
+			],
+			[
+				"404",
+				"public/404.html"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"evenshot",
+				"app/views/events/events/show.html.erb"
+			],
+			[
+				"nav",
+				"app/assets/stylesheets/application/nav.css.scss"
+			],
+			[
+				"eventshow",
+				"app/views/events/events/show.html.erb"
+			],
+			[
+				"custom-fon",
+				"app/assets/stylesheets/application/custom-font.css"
+			],
+			[
+				"custom-font",
+				"app/assets/fonts/custom/custom-fonts.css"
+			],
+			[
+				"mixin",
+				"app/assets/stylesheets/application/_mixins.css.scss"
+			],
+			[
+				"show",
+				"app/views/home/show.html.erb"
+			],
+			[
+				"accountsw",
+				"app/assets/stylesheets/application/account_switcher.css.scss"
+			],
+			[
+				"layhome",
+				"app/views/layouts/home.html.erb"
+			],
+			[
+				"mixins",
+				"app/assets/stylesheets/application/_mixins.css.scss"
+			],
+			[
+				"mixi",
+				"app/assets/stylesheets/application/_mixins.css.scss"
+			],
+			[
+				"eventcontr",
+				"app/controllers/api/events_controller.rb"
+			],
+			[
+				"ticke",
+				"app/controllers/tickets_controller.rb"
+			],
+			[
+				"dashshow",
+				"app/views/admin/dashboard/show.html.erb"
+			],
+			[
+				"_form",
+				"app/views/organizer/events/_form.html.erb"
+			],
+			[
+				"tito.js",
+				"app/assets/javascripts/application/tito.js.coffee"
+			],
+			[
+				"viewes",
+				"app/assets/stylesheets/application/viewer.css.scss"
+			],
+			[
+				"",
+				"/Users/kilmc/Sites/Hypertiny/Tito/app/assets/stylesheets/application/_viewer.css.scss"
+			],
+			[
+				"taxshow",
+				"app/views/organizer/settings/tax_types/show.html.erb"
+			],
+			[
+				"viewe",
+				"app/assets/stylesheets/application/_viewer.css.scss"
+			],
+			[
+				"regindex",
+				"app/views/organizer/registrations/index.html.erb"
+			],
+			[
+				"button",
+				"app/assets/stylesheets/application/_buttons.css.scss"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"maincss",
+				"app/assets/stylesheets/application/_main.css.scss"
+			],
+			[
+				"applicahtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"table",
+				"app/assets/stylesheets/_standard_table.css.scss"
+			],
+			[
+				"settingscss",
+				"app/assets/stylesheets/application/_settings.css.scss"
+			],
+			[
+				"invoicing",
+				"app/views/organizer/settings/basics/_invoicing_settings.html.erb"
+			],
+			[
+				"invoin",
+				"app/views/organizer/settings/basics/_invoicing.html.erb"
+			],
+			[
+				"dashboascs",
+				"app/assets/stylesheets/application/_dashboard.css.scss"
+			],
+			[
+				"standarlis",
+				"app/assets/stylesheets/application/_standard_list.css.scss"
+			],
+			[
+				"dashsc",
+				"app/assets/stylesheets/application/_dashboard.css.scss"
+			],
+			[
+				"dashb",
+				"app/assets/stylesheets/application/_dashboard.css.scss"
+			],
+			[
+				"reports",
+				"app/views/organizer/reports/index.html.erb"
+			],
+			[
+				"dash",
+				"app/views/organizer/events/_dashboard.html.erb"
+			],
+			[
+				"dashboardscss",
+				"app/assets/stylesheets/application/_dashboard.css.scss"
+			],
+			[
+				"applicstyle",
+				"app/assets/stylesheets/application/style.css.scss"
+			],
+			[
+				"sttab",
+				"app/assets/stylesheets/_standard_table.css.scss"
+			],
+			[
+				"standlis",
+				"app/assets/stylesheets/application/_standard_list.css.scss"
+			],
+			[
+				"stand",
+				"app/assets/stylesheets/application/_standard_list.css.scss"
+			],
+			[
+				"vari",
+				"app/assets/stylesheets/application/_variables.css.scss"
+			],
+			[
+				"list",
+				"app/assets/stylesheets/application/_standard_list.css.scss"
+			],
+			[
+				"applicforms",
+				"app/assets/stylesheets/application/_forms.css.scss"
+			],
+			[
+				"form",
+				"app/assets/stylesheets/inner/_forms.scss"
+			],
+			[
+				"butto",
+				"app/assets/stylesheets/application/_buttons.css.scss"
+			],
+			[
+				"standa",
+				"app/assets/stylesheets/_standard_table.css.scss"
+			],
+			[
+				"registrjs",
+				"app/assets/javascripts/organizer/registrations.js.coffee"
+			],
+			[
+				"regregis",
+				"app/views/organizer/registrations/_registration.html.erb"
+			],
+			[
+				"regind",
+				"app/views/organizer/registrations/index.html.erb"
+			],
+			[
+				"registshow",
+				"app/views/organizer/registrations/show.html.erb"
+			],
+			[
+				"regcss",
+				"app/assets/stylesheets/application/_registrations.css.scss"
+			],
+			[
+				"registscss",
+				"app/assets/stylesheets/application/_registrations.css.scss"
+			],
+			[
+				"view",
+				"app/assets/stylesheets/application/_viewer.css.scss"
+			],
+			[
+				"relecss",
+				"app/assets/stylesheets/_releases.css.scss"
+			],
+			[
+				"releasscss",
+				"app/assets/stylesheets/_releases.css.scss"
+			],
+			[
+				"varia",
+				"app/assets/stylesheets/application/_variables.css.scss"
+			],
+			[
+				"variablesscss",
+				"app/assets/stylesheets/application/_variables.css.scss"
+			],
+			[
+				"helper",
+				"app/assets/stylesheets/shared/_helpers.scss"
+			],
+			[
+				"mix",
+				"app/assets/stylesheets/application/_mixins.css.scss"
+			],
+			[
+				"style",
+				"app/assets/stylesheets/application/style.css.scss"
+			],
+			[
+				"releasesshow",
+				"app/views/organizer/releases/show.html.erb"
+			],
+			[
+				"chopp",
+				"app/assets/stylesheets/application/_chopping_board.css.scss"
+			],
+			[
+				"vie",
+				"app/assets/stylesheets/application/_viewer.css.scss"
+			],
+			[
+				"chopping",
+				"app/assets/stylesheets/application/_chopping_board.css.scss"
+			],
+			[
+				"ticketsinde",
+				"app/views/organizer/tickets/index.html.erb"
+			],
+			[
+				"applic",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"appvar",
+				"app/assets/stylesheets/application/_variables.css.scss"
+			],
+			[
+				"appl",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"orgform",
+				"app/views/organizer/registrations/_form.html.erb"
+			],
+			[
+				"orgre",
+				"app/views/organizer/refunds/confirm.html.erb"
+			],
+			[
+				"setjs",
+				"app/assets/javascripts/organizer/settings.js.coffee"
+			],
+			[
+				"inmo",
+				"app/assets/stylesheets/inner/_modules.scss"
+			],
+			[
+				"homesty",
+				"app/assets/stylesheets/home/style.css.scss"
+			],
+			[
+				"currency",
+				"db/migrate/20110313161659_add_currency_and_timezone_to_user.rb"
+			],
+			[
+				"laysign",
+				"app/views/layouts/sign_in.html.erb"
+			],
+			[
+				"locdevis",
+				"config/locales/devise.en.yml"
+			],
+			[
+				"sessions",
+				"app/controllers/users/sessions_controller.rb"
+			],
+			[
+				"password",
+				"app/views/devise/mailer/reset_password_instructions.html.erb"
+			],
+			[
+				"log",
+				"log/development.log"
+			],
+			[
+				"evsh",
+				"app/views/events/events/show.html.erb"
+			],
+			[
+				"evevev",
+				"app/views/events/events/_event.html.erb"
+			],
+			[
+				"forms",
+				"app/assets/stylesheets/inner/_forms.scss"
+			],
+			[
+				"inmod",
+				"app/assets/stylesheets/inner/_modules.scss"
+			],
+			[
+				"outmod",
+				"app/assets/stylesheets/outer/_modules.scss"
+			],
+			[
+				"modules",
+				"app/assets/stylesheets/inner/_modules.scss"
+			],
+			[
+				"evsho",
+				"app/views/events/events/show.html.erb"
+			],
+			[
+				"layout",
+				"app/assets/stylesheets/outer/_layouts.scss"
+			],
+			[
+				"regcon",
+				"app/controllers/organizer/registrations_controller.rb"
+			],
+			[
+				"outmodu",
+				"app/assets/stylesheets/outer/_modules.scss"
+			],
+			[
+				"venue",
+				"app/models/venue.rb"
+			],
+			[
+				"evevsh",
+				"app/views/events/events/show.html.erb"
+			],
+			[
+				"passbook",
+				"app/assets/stylesheets/passbook.css"
+			],
+			[
+				"pdfhtml",
+				"app/views/layouts/pdf.html.erb"
+			],
+			[
+				"eventsapplic",
+				"app/controllers/events/application_controller.rb"
+			],
+			[
+				"ticketspdf",
+				"app/views/events/tickets/pdf.pdf.erb"
+			],
+			[
+				"ticketscon",
+				"app/controllers/events/tickets_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"tito",
+				"/Users/kilmc/Sites/Hypertiny/Sublime Projects/Tito.sublime-project"
+			],
+			[
+				"mind",
+				"/Users/kilmc/Sites/ideas.kilmc.com/mindspill.sublime-project"
+			],
+			[
+				"safe",
+				"/Users/kilmc/Sites/Safecast/Safecast.org/Safecast.sublime-project"
+			],
+			[
+				"ull",
+				"/Users/kilmc/Sites/Hypertiny/Ull-New.sublime-project"
+			],
+			[
+				"kilmc",
+				"/Users/kilmc/Sites/kilmc.com/Kilmc.com.sublime-project"
+			],
+			[
+				"",
+				"/Users/kilmc/Sites/pudding/pudding.sublime-project"
+			],
+			[
+				"puddin",
+				"/Users/kilmc/Sites/pudding/pudding.sublime-project"
+			],
+			[
+				"pudding",
+				"/Users/kilmc/Sites/pudding/pudding.sublime-project"
+			],
+			[
+				"kilm",
+				"/Users/kilmc/Sites/Git/Sublime Projects/Kilmc.sublime-project"
+			],
+			[
+				"tut",
+				"/Users/kilmc/Sites/Hypertiny/Sublime Projects/Tito.sublime-project"
+			],
+			[
+				"lam",
+				"/Users/kilmc/Sites/Lambstongue/Lambstongue.sublime-project"
+			],
+			[
+				"la",
+				"/Users/kilmc/Sites/Lambstongue/Lambstongue.sublime-project"
+			],
+			[
+				"kilmc ",
+				"/Users/kilmc/Sites/Git/Sublime Projects/Kilmc.sublime-project"
+			],
+			[
+				"tit",
+				"/Users/kilmc/Sites/Hypertiny/Sublime Projects/Tito.sublime-project"
+			],
+			[
+				"ki",
+				"/Users/kilmc/Sites/Git/Sublime Projects/kirby.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true
+}
