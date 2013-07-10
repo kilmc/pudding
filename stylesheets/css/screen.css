@@ -113,6 +113,13 @@ textarea {
   overflow: auto;
   vertical-align: top; }
 
+input[type="submit"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  appearance: none; }
+
 body {
   background: #ff3853;
   color: #fff;
@@ -130,6 +137,10 @@ a, a:link, a:visited {
   font-size: 2em; }
 .text h4 {
   font-size: 1.5em; }
+.text p {
+  font-size: 1.2em;
+  line-height: 1.1em;
+  margin-bottom: 1em; }
 
 .container {
   *zoom: 1;
@@ -161,32 +172,27 @@ a, a:link, a:visited {
   font-weight: 300;
   line-height: 1.2em; }
 
-a.button {
+.button {
   background: #fff;
+  border: none;
   border-radius: 8px;
   color: #ff3853;
   display: block;
   font-size: 1.8em;
   font-weight: 800;
   height: 44px;
+  margin: 1em 0;
   padding: 8px 0 0 0;
-  text-align: center; }
+  text-align: center;
+  width: 100%; }
 
-input.button {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  -ms-appearance: none;
-  -o-appearance: none;
-  appearance: none;
-  background: #fff;
-  border-radius: 8px;
-  color: #ff3853;
-  display: block;
-  font-size: 1.8em;
-  font-weight: 800;
-  height: 44px;
-  padding: 8px 0 0 0;
-  text-align: center; }
+a.button {
+  color: #ff3853; }
+
+input[type="submit"].button {
+  font-size: 1.6em;
+  letter-spacing: -1px;
+  padding: 5px 0 0 0; }
 
 .section-title {
   border-bottom: 2px solid #fff;
@@ -197,6 +203,10 @@ input.button {
   padding-bottom: 0.25em; }
   .section-title em {
     font-weight: 400; }
+
+.info {
+  font-size: 1.6em;
+  margin: 1em 0; }
 
 #proof-text {
   border-radius: 8px;
@@ -212,6 +222,18 @@ input.button {
   background: transparent;
   border: none;
   border-bottom: 1px solid #fff;
+  color: #fff;
+  font-size: 2em;
   outline: none;
-  padding: 10px;
+  padding: 10px 0;
   width: 100%; }
+
+.proof-text {
+  border-left: 8px solid #fff;
+  padding: 0.5em 0 0.5em 1em; }
+
+.proofers-list {
+  border-left: 8px solid #fff;
+  font-size: 2em;
+  line-height: 1.375em;
+  padding-left: 0.5em; }

@@ -2,6 +2,10 @@
 @import 'neat/neat';
 @import 'reset';
 
+input[type="submit"] {
+  @include appearance(none);
+}
+
 // ---------------------------------------------------------
 // Mixins & Variables
 // ---------------------------------------------------------
@@ -45,6 +49,7 @@ a, a:link, a:visited {
 // ---------------------------------------------------------
 
 // Use the class text on any container specifically for textual content
+$leading: 1.1em;
 
 .text {
   h1 {
@@ -61,6 +66,12 @@ a, a:link, a:visited {
 
   h4 {
     font-size: 1.5em;
+  }
+
+  p {
+    font-size: 1.2em;
+    line-height: $leading;
+    margin-bottom: 1em;
   }
 
   ul {
@@ -105,31 +116,30 @@ a, a:link, a:visited {
   line-height: 1.2em;
 }
 
+.button {
+  background: #fff;
+  border: none;
+  border-radius: 8px;
+  color: $primary;
+  display: block;
+  font-size: 1.8em;
+  font-weight: 800;
+  height: 44px;
+  margin: 1em 0;
+  padding: 8px 0 0 0;
+  text-align: center;
+  width: 100%;
+}
+
 a.button {
-  background: #fff;
-  border-radius: 8px;
   color: $primary;
-  display: block;
-  font-size: 1.8em;
-  font-weight: 800;
-  height: 44px;
-  padding: 8px 0 0 0;
-  text-align: center;
 }
 
-input.button {
-  @include appearance(none);
-  background: #fff;
-  border-radius: 8px;
-  color: $primary;
-  display: block;
-  font-size: 1.8em;
-  font-weight: 800;
-  height: 44px;
-  padding: 8px 0 0 0;
-  text-align: center;
+input[type="submit"].button {
+  font-size: 1.6em;
+  letter-spacing: -1px;
+  padding: 5px 0 0 0;
 }
-
 
 // Step One
 
@@ -143,6 +153,11 @@ input.button {
   em {
     font-weight: 400;
   }
+}
+
+.info {
+  font-size: 1.6em;
+  margin: 1em 0;
 }
 
 #proof-text {
@@ -161,9 +176,21 @@ input.button {
   background: transparent;
   border: none;
   border-bottom: 1px solid #fff;
+  color: #fff;
+  font-size: 2em;
   outline: none;
-  padding: 10px;
+  padding: 10px 0;
   width: 100%;
 }
 
+.proof-text {
+  border-left: 8px solid #fff;
+  padding: 0.5em 0 0.5em 1em;
+}
 
+.proofers-list {
+  border-left: 8px solid #fff;
+  font-size: 2em;
+  line-height: $leading*1.25;
+  padding-left: 0.5em;
+}
